@@ -29,10 +29,9 @@ https://nodejs.org/en/
 
 # O que é o Express ?
 
-## Framework web minimalista e rápido para Node.js
-## Fornece uma estrutura e conjunto de recursos robustos para aplicações Web e mobile,
-
-## Dispóe de métodos utilitários HTTP e middlewares para criar uma API rápida e segura.
+Framework web minimalista e rápido para Node.js
+Fornece uma estrutura e conjunto de recursos robustos para aplicações Web e mobile,
+Dispóe de métodos utilitários HTTP e middlewares para criar uma API rápida e segura.
 
 ## Instalar Express:
 
