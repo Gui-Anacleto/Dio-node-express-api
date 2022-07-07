@@ -1,0 +1,14 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "-Conhecer Javascript e seus fundamentos; ok\r -Familiaridade com comandos no terminal; ok\r -Conhecimento básico sobre protocolos HTTP(GET, POST, PUT, DELETE); ok\r -Conhecer o conceito de RestAPI; ok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
