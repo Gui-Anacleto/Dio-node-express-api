@@ -35,16 +35,18 @@ https://nodejs.org/en/
 ## Dispóe de métodos utilitários HTTP e middlewares para criar uma API rápida e segura.
 
 ## Instalar Express:
-### No terminal dentro do diretório do projeto, digite: ** npm install express --save **
+
+No terminal dentro do diretório do projeto, digite: *npm install express --save*
 Extras:
 Criar projeto - nmp init
 
-# Atividade prática:
-## Criar uma *endpoint* para *users*:
-### Listar usuários: GET
-### Criar usuário: POST
-### Modificar usuário: PUT
-### Remover usuário: DELETE
+## Atividade prática:
+
+Criar uma *endpoint* para *users*:
+Listar usuários: GET
+Criar usuário: POST
+Modificar usuário: PUT
+Remover usuário: DELETE
 
 # CLI - command line interface
 
