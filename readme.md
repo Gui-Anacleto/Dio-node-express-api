@@ -37,7 +37,7 @@ Dispóe de métodos utilitários HTTP e middlewares para criar uma API rápida e
 
 No terminal dentro do diretório do projeto, digite: *npm install express --save*
 Extras:
-Criar projeto - nmp init
+Criar projeto - npm init
 
 ## Atividade prática:
 
